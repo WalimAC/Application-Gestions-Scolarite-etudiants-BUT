@@ -58,5 +58,6 @@ Cependant, ce projet devait respecter des entrées/sorties strictes pour la corr
 
 ### Crédits
 
-**Sujet & idée par Denis Poitrenaud - Professeur en Développement**
-**Code par Walim AMOR-CHELIHI**
+`Sujet par Denis Poitrenaud (idée, Commande, Entrée, Sortie) - Professeur en Développement`
+<br/>
+`Code par Walim AMOR-CHELIHI`
