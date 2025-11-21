@@ -55,3 +55,8 @@ Cependant, ce projet devait respecter des entrées/sorties strictes pour la corr
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="Logo C" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Logo VScode" width="40" height="40">
+
+### Crédits
+
+**Sujet & idée par Denis Poitrenaud - Professeur en Développement**
+**Code par Walim AMOR-CHELIHI**
