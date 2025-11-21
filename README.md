@@ -6,7 +6,7 @@
   <h3 align="center">Programme de gestion des étudiants - BUT Informatique</h3>
 
   <p align="center">
-    Application en ligne de commande permettant de gérer la scolarité complète des étudiants du BUT Informatique.
+    Application en ligne de commande permettant de gérer la scolarité des étudiants du BUT Informatique.
     <br>
     <i>⚠️ | Projet universitaire ! Ne reflète pas totalement le système réel de notation d’un BUT.</i>
     <br />
