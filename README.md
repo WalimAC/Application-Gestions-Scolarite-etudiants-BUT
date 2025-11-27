@@ -31,7 +31,7 @@ Elle a été développée dans le cadre d’un projet universitaire en première
 - Suivi du cursus (moyennes, validation de semestres, ajournement, diplome)  
 - Gestion des décisions de jury (Calcul des compensations & passage admis ou refusé)
   
-[Voir un exemple en image](https://media.discordapp.net/attachments/1441496793635360808/1441496872748322846/Capture_decran_2025-11-21_a_18.37.51.png?ex=69220214&is=6920b094&hm=c32aa72b92a3c78e60e6ce082b1593f858f39c102010a64e6ecfcdb1cc825b08&=&format=webp&quality=lossless&width=1542&height=1544)
+[Voir un exemple en image](https://media.discordapp.net/attachments/1441496793635360808/1441496872748322846/Capture_decran_2025-11-21_a_18.37.51.png?ex=6929eb14&is=69289994&hm=5542d829df654289b64ee04733408df31ed1bf497be6165504d5baf348d7cfaf&=&format=webp&quality=lossless&width=1542&height=1544)
 
 ---
 
