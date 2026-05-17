@@ -11,7 +11,7 @@
     <i>⚠️ | Projet universitaire ! Ne reflète pas totalement le système réel de notation d’un BUT.</i>
     <br />
     <br />
-    <a href="https://wamor.free.nf/?i=1#contact">Signaler un bug</a>
+    <a href="https://walimamor.fr/?i=2#contact">Signaler un bug</a>
   </p>
 </div>
 
